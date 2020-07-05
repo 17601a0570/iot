@@ -1,7 +1,3 @@
-
-				{
-				
-					"Hardware": [
 						{
 							
 							"Intel": [
@@ -15,29 +11,5 @@
 									"name": "ReliaGATE 20-25 ,Intel Atom"
 								}
 							]
-						},
-						{
-							
-							"ARM": [
-								{
-									"name": "Raspberry pi Zero:"
-								},
-								{
-									"name": "Raspberry pi 3 b+:"
-								},
-								{
-									"name": "Raspberry pi 4 :"
-								},
-								{
-									"name": "Jetson Tegra TK2:"
-								},
-								{
-									"name": "Jetson Nano:"
-								},
-								{
-									"name": "FATBOX G3 - 3G :"
-								}
-							]
 						}
-					]
-				}
+						
