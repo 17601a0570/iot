@@ -4,7 +4,7 @@
 					"Hardware": [
 						{
 							
-							"Intel Architecture": [
+							"Intel": [
 								{
 									"name": "UTX3115: Intel® Atom™"
 								},
@@ -18,7 +18,7 @@
 						},
 						{
 							
-							"ARM Architecture": [
+							"ARM": [
 								{
 									"name": "Raspberry pi Zero:"
 								},
